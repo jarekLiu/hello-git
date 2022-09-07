@@ -2,4 +2,6 @@ hello git
 
 我的第一版紀錄
 
-Version 1.0.0
+我的1.0.2修改
+
+Version 1.0.2

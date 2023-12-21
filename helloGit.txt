@@ -9,3 +9,5 @@ v1.0.1 紀錄
 
 Version 1.0.1
 第一次修改-12/21 17:46
+
+add something~ in v1.2 at 12/21 17:48

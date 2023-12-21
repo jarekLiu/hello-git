@@ -1,0 +1,10 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs/git練習/v17/.wsuo
+/.vs/git練習/FileContentIndex/78e5fc24-1e1c-45a3-b440-cb21a9fbe1b1.vsidx
+*.vsidx
+/.gitignore
+/.gitignore
+/.vs/git練習/v17/.wsuo
